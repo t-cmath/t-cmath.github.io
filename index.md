@@ -1,7 +1,6 @@
-| [CMath](cmath.cc)                        |
-| ---------------------------------------- |
-| [timeline](cmath.cc/timeline/index.html) |
-| [academic](cmath.cc/academic/index.html) |
-| [data](cmath.cc/data/index.html)         |
-| [info](cmath.cc/info/index.html)         |
+| [CMath](index.html)             |
+| ------------------------------- |
+| [timeline](tl/index.html)       |
+| [academic](academic/index.html) |
+| [info](info/index.html)         |
 
