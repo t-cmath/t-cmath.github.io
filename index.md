@@ -1,6 +1,6 @@
 # [CMath](http://cmath.cc)
 
-| [CMath](index.html)             |
+| CMath                           |
 | ------------------------------- |
 | [timeline](tl/index.html)       |
 | [academic](academic/index.html) |
@@ -9,4 +9,26 @@
 | External                         |
 | -------------------------------- |
 | [friends](external/friends.html) |
+
+| Flow |
+| ---- |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
 
