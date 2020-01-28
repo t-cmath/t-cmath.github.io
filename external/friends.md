@@ -13,4 +13,5 @@
 | [EtaoinWu](https://etaoinwu.com/)          |
 | [negiizhao](http://negiizhao.blog.uoj.ac/) |
 | [_rqy's Blog](https://rqy.moe/)            |
+| [KSkun's Blog](https://ksmeow.moe/)        |
 
