@@ -1,6 +1,8 @@
 # [CMath](http://cmath.cc)
 
-| 推荐阅读                                                     |
-| ------------------------------------------------------------ |
-| [t532's blog](https://t532.github.io/)                       |
-| [白玉楼小碎骨餐饮有限公司](https://yuumukonpaku.github.io/<br/>) |
+| Platform                      | Username                                    |
+| ----------------------------- | ------------------------------------------- |
+| [LOJ](loj.ac)                 | [CMath](https://loj.ac/user/17583)          |
+| [UOJ](uoj.ac)                 | [_CMath](http://uoj.ac/user/profile/_CMath) |
+| [GitHub](https://github.com/) | [t-cmath](https://github.com/t-cmath)       |
+| Email                         | t_cmath@outlook.com                         |
