@@ -1,6 +1,6 @@
 # [CMath](http://cmath.cc)
 
-| CMath.info                |
+| info                      |
 | ------------------------- |
 | [link](link/index.html)   |
 | [about](about/index.html) |
