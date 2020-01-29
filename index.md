@@ -36,7 +36,7 @@
 
 *I wish you enough.*
 
-Built by **Tung Tsing-hsuen** 💗.
+Built by **Tung Tsing-hsuen**  with ❤.
 
 Powered by [Typora](https://typora.io).
 
