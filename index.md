@@ -38,6 +38,6 @@
 
 Built by **Tung Tsing-hsuen**  with ❤.
 
-Powered by [Typora](https://typora.io).
+Powered by [Typora](https://typora.io) & [GitHub Pages](https://pages.github.com/).
 
 Distributed under MIT License（code），CC-BY 4.0 License（text）.
