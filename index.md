@@ -32,4 +32,12 @@
 |      |
 |      |
 
+------
+
 *I wish you enough.*
+
+Built by **Tung Tsing-hsuen** 💗.
+
+Powered by [Typora](https://typora.io).
+
+Distributed under MIT License（code），CC-BY 4.0 License（text）.
