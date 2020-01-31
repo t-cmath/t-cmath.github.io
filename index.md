@@ -40,4 +40,4 @@ Built by **Tung Tsing-hsuen**  with ❤.
 
 Powered by [Typora](https://typora.io) & [GitHub Pages](https://pages.github.com/).
 
-Distributed under MIT License（code），CC-BY 4.0 License（text）.
+Distributed under MIT License（code），CC-BY 4.0 License（text）.（Only for contents under the "timeline" & "info" categories. Some material might come from the Internet. If there is an infringement, please contact t_cmath@outlook.com.）
