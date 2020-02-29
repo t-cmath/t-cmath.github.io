@@ -8,6 +8,7 @@
 | [YangTY's blog](https://imyangty.com/)                   |
 | [91khr's blog](https://91khr.github.io/index.html)       |
 | [kaleidohouse](https://jackmjtj.github.io/kaleidohouse/) |
+| [hehelego](https://www.luogu.com.cn/blog/hehelego/)      |
 
 | 推荐阅读                                   |
 | ------------------------------------------ |
